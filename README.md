@@ -1,11 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails Project using Getting Started with Rails https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version 2.4.4
 
 * System dependencies
 
