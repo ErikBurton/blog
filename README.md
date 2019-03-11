@@ -4,18 +4,18 @@ This is a Rails Project using Getting Started with Rails https://guides.rubyonra
 
 * Ruby version 2.4.4
 
-* System dependencies
+* Bootstrap 4
 
-* Configuration
+* Configuration -
 
-* Database creation
+* Database creation -
 
-* Database initialization
+* Database initialization -
 
-* How to run the test suite
+* How to run the test suite -
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions -
 
 * ...
